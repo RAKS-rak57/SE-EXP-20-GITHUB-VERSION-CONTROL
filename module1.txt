@@ -1,1 +1,4 @@
-Module 1 - User Interface 
+Module 1 - User Interface
+
+This module is responsible for designing and managing the user interface of the team project.
+Version controlled using the module-1 branch.
