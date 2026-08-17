@@ -1,3 +1,5 @@
-MODULE 1: USER INTERFACE
+Module 1: User Interface
 
-Main branch version of Module 1.
+This module contains the user interface design and interaction details.
+
+Conflict resolved successfully between main and conflict-branch.
